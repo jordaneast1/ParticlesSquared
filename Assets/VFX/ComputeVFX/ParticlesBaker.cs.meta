@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 385fdda59c7eb8e42a85f38a99b4b836
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _source: {instanceID: 0}
+  - _positionMap: {fileID: 8400000, guid: aef26a6fee56a794eb1ca256cd2db8e9, type: 2}
+  - _velocityMap: {fileID: 8400000, guid: 8f32416a1e2c4e84a925bee6abc1ded8, type: 2}
+  - _normalMap: {fileID: 8400000, guid: 0fbe0bb2e63cd694c99640064b7c7916, type: 2}
+  - _compute: {fileID: 7200000, guid: ba78f1467eed9514da6757f4d32a3f35, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
